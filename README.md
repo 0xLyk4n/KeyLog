@@ -21,9 +21,12 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     <li>
+      <a href="#getting-started">Getting Started</a>
+    </li>
+    <li>
       <a href="#prerequisites">Prerequisites</a>
       <ul>
-        <li><a href="#prerequisites">Setup</a></li>
+        <li><a href="#setup">Setup</a></li>
         <li><a href="#cloning">Cloning</a></li>
         <li><a href="#run">Run</a></li>
       </ul>

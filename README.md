@@ -1,8 +1,58 @@
-# KeyLog
-A Keylogger made in Python.
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
 
-# Setup
+  <h3 align="center">KeyLog</h3>
+
+  <p align="center">
+    A python based script for keylogging. 
+    <br />
+    <br />
+  </p>
+</p>
+
+
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+    </li>
+    <li>
+      <a href="#prerequisites">Prerequisites</a>
+      <ul>
+        <li><a href="#prerequisites">Setup</a></li>
+        <li><a href="#cloning">Cloning</a></li>
+        <li><a href="#run">Run</a></li>
+      </ul>
+    </li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
+
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+This is a python based script for keylogging. Keystroke logging, often referred to as keylogging or keyboard capturing, is the action of recording the keys struck on a keyboard, typically covertly, so that a person using the keyboard is unaware that their actions are being monitored. Data can then be retrieved by the person operating the logging program.
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+You can use the scirpt for keeping a track when someone else is using you system. You will be able to get a detailed summary of what the user will be typing on your discord channel.
+
+## Prerequisites
+
+These are the things you need to perform in order to use it. 
+
+### Setup
+
 Change the Webhook URL at line 28.
+
 
 ### Cloning
 
@@ -27,7 +77,6 @@ Change the Webhook URL at line 28.
 ```
 
 
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -40,7 +89,6 @@ Contributions are what make the open source community such an amazing place to l
 5. Open a Pull Request
 
 
-
 <!-- CONTACT -->
 ## Contact
 
@@ -49,3 +97,4 @@ Your Name - [Subhajit Sahana](https://www.linkedin.com/in/subhajit-sahana) - sah
 Project Link: [https://github.com/0xr4Gn4R/KeyLog](https://github.com/0xr4Gn4R/KeyLog)
 
 # THIS IS ONLY FOR EDUCATIONAL PURPOSES!
+

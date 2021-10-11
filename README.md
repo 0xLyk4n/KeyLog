@@ -46,7 +46,7 @@ This is a python based script for keylogging. Keystroke logging, often referred 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-You can use the scirpt for keeping a track when someone else is using you system. You will be able to get a detailed summary of what the user will be typing on your discord channel.
+You can use the scirpt for keeping a track when someone else is using your system. You will be able to get a detailed summary of what the user will be typing, on your discord channel.
 
 ## Prerequisites
 
@@ -54,7 +54,7 @@ These are the things you need to perform in order to use it.
 
 ### Setup
 
-Change the Webhook URL at line 28.
+Change the Webhook URL with your own at line 28.
 
 
 ### Cloning

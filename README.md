@@ -46,6 +46,6 @@ Contributions are what make the open source community such an amazing place to l
 
 Your Name - [Subhajit Sahana](https://www.linkedin.com/in/subhajit-sahana) - sahanasubhojit@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/0xr4Gn4R/KeyLog)
+Project Link: [https://github.com/0xr4Gn4R/KeyLog](https://github.com/0xr4Gn4R/KeyLog)
 
 # THIS IS ONLY FOR EDUCATIONAL PURPOSES!

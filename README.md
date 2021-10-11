@@ -80,7 +80,7 @@ Change the Webhook URL with your own at line 28.
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you is *highly appreciated*.
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make is *highly appreciated*.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/NewFeature`)

@@ -69,10 +69,7 @@ Change the Webhook URL at line 28.
    ```sh
    cd KeyLog
    ```
-4. Install the requirements
-   ```sh
-   pip install -r requirements.txt
-   ```
+
   
 ### Run
 ```sh
